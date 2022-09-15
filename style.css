@@ -1,6 +1,4 @@
-h1{
-color: black;
+.head{
+    text-align:center ;
+    border: 3px solid yellowgreen;
 }
-.main-header{font-size: 26px;}
-.whitefont{color: white;}
-#id{color:  purple;}
