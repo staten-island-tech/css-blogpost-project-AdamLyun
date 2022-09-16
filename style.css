@@ -1,4 +1,21 @@
 .head{
+    margin: 20px auto;
     text-align:center ;
-    border: 3px solid yellowgreen;
+    border: 5px solid white;
+    background-color:   ;
+    font-size: 40px;
+    width: 50vw
+}
+.h1{
+    font-size: 50px; 
+}
+body{
+    background-color:bisque;
+}
+.outer-cont {
+    height: 100vh ;
+    display: flex ; 
+    justify-content: space-evenly;
+    align-items: center;
+    width: 100vw;
 }
